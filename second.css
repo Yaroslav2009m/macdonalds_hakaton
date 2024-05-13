@@ -1,0 +1,43 @@
+header a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+}
+header{
+    border-bottom: 1px solid black;
+}
+
+.eat1{
+    width: 1100px;
+    height: 550px;
+}
+
+
+.eat2{
+    width: 500px;
+    height: 400px;
+}
+
+.photo1{
+    width: 600px;
+    height: 400px;
+}
+
+.button1{
+    background-color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.photo2{
+    width: 600px;
+    height: 400px;
+}
+
+table{
+    padding: 5px;
+    margin: 5px;
+}
